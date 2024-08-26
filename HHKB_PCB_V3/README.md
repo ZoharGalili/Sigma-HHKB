@@ -1,5 +1,5 @@
 # **keyboard PCB**
-# *we managed to get the pcb to fully work lets go*
+# ***we managed to get the pcb to fully work lets go***
 but it didnt go without issues of course.
 at first i didnt know how to get the stm32 into bootloader
 and the first time i flashed it the code didnt compile due to syntax errors
